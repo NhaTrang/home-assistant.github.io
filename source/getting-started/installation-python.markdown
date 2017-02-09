@@ -17,6 +17,11 @@ Once installed, execute the following code in a console:
 $ pip3 install homeassistant
 $ hass --open-ui
 ```
+On Windows, instead of $ hass --open-ui , you will have to type:
+
+```bash
+$ py -m homeassistant --open-ui
+```
 
 Running these commands will:
 
